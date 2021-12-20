@@ -23,7 +23,7 @@ namespace aspnetapp
                             });
                     });
                 });
-            host.Build().Run();
+            host.Build().Run()
         }
     }
 }
